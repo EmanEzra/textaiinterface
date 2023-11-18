@@ -1,0 +1,10 @@
+flask
+pandas
+scikit-learn
+tensorflow
+sqlalchemy
+requests
+numpy
+scipy
+num2words
+gunicorn
